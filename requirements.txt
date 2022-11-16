@@ -1,1 +1,1 @@
-git+https://github.com/MrKevinWeiss/pkg1@master#egg=kw-haw-pkg1
+git+https://github.com/MrKevinWeiss/pkg1@8d68e82472c59d7802d560811abadc7a9c7a00bb#egg=kw-haw-pkg1
