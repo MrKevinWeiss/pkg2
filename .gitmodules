@@ -1,0 +1,3 @@
+[submodule "kw-haw-pkg1"]
+	path = kw-haw-pkg1
+	url = git@github.com:MrKevinWeiss/pkg1
