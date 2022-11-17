@@ -7,3 +7,11 @@ build-backend = "setuptools.build_meta"
 # For smarter version schemes and other configuration options,
 # check out https://github.com/pypa/setuptools_scm
 version_scheme = "no-guess-dev"
+
+[tool.poetry.dependencies]
+# Get the latest revision on the branch named "next"
+requests = { git = "https://github.com/kennethreitz/requests.git", branch = "next" }
+# Get a revision by its commit hash
+flask = { git = "https://github.com/pallets/flask.git", rev = "38eb5d3b" }
+# Get a revision by its tag
+numpy = { git = "https://github.com/numpy/numpy.git", tag = "v0.13.2" }
