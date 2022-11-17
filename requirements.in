@@ -1,0 +1,2 @@
+django==3.1
+git+https://github.com/MrKevinWeiss/pkg1#egg=kw-haw-pkg1==0.1.0
