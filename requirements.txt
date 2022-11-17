@@ -1,2 +1,0 @@
-cmd2==2.0.0
--e git+https://github.com/MrKevinWeiss/pkg1#egg=kw-haw-pkg1@v0.1.0
