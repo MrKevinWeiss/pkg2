@@ -1,2 +1,2 @@
 [packages]
-kw-haw-pkg1 = {version = "0.1.0" git = "https://github.com/MrKevinWeiss/pkg1"}
+kw-haw-pkg1 = {version = "0.1.0", git = "https://github.com/MrKevinWeiss/pkg1"}
