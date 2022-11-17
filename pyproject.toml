@@ -15,4 +15,4 @@ requests = { git = "https://github.com/kennethreitz/requests.git", branch = "nex
 flask = { git = "https://github.com/pallets/flask.git", rev = "38eb5d3b" }
 # Get a revision by its tag
 numpy = { git = "https://github.com/numpy/numpy.git", tag = "v0.13.2" }
-kw-haw-pkg1 = {version = "0.1.0", git = "https://github.com/MrKevinWeiss/pkg1", branch = "master"}
+kw-haw-pkg1 = {version = "0.1.0", git = "https://github.com/MrKevinWeiss/pkg1", branch = "master", develop = false}
